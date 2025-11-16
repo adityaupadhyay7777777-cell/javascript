@@ -1,0 +1,23 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/adityaupadhyay7777777-cell/javascript#readme",
+  "bugs": {
+    "url": "https://github.com/adityaupadhyay7777777-cell/javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaupadhyay7777777-cell/javascript.git"
+  },
+  "license": "ISC",
+  "author": "aditya",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
